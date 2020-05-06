@@ -48,6 +48,11 @@ const LearningResources = () => (
           <a href='https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw'>
             James Quick Youtube
           </a>
+         <li className='underline mb-3 text-blue-300 hover:text-teal-600'>
+          <a href='https://aiproficiency.com/'>
+            aiproficiency.com
+          </a>
+        </li>
         </li>
       </ul>
     </div>
@@ -70,9 +75,7 @@ const LearningResources = () => (
         <li className='underline mb-3 text-blue-300 hover:text-teal-600'>
           <a href='https://teamtreehouse.com/'>Team Treehouse</a>
         </li>
-        <li className='underline mb-3 text-blue-300 hover:text-teal-600'>
-          <a href='http://aiproficiency.com/'>Free Ai Proficiency</a>
-        </li>
+
       </ul>
     </div>
   </div>
