@@ -70,6 +70,9 @@ const LearningResources = () => (
         <li className='underline mb-3 text-blue-300 hover:text-teal-600'>
           <a href='https://teamtreehouse.com/'>Team Treehouse</a>
         </li>
+        <li className='underline mb-3 text-blue-300 hover:text-teal-600'>
+          <a href='http://aiproficiency.com/'>Free Ai Proficiency</a>
+        </li>
       </ul>
     </div>
   </div>
